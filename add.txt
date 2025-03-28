@@ -1,0 +1,4 @@
+apple=50
+orange=40
+add=apple+orange
+print(add)
